@@ -11,6 +11,19 @@ body {
     border-right: 1px solid #333;
 }
 
+header {
+    text-align: center;
+}
+
+nav > ul {
+    list-style: none;
+}
+
+nav > ul > li {
+    display: inline;
+    margin: 0px 15px;
+}
+
 th, td, caption {
     border: 1px solid #333;
     font-family: 'Courier New', Courier, monospace;
